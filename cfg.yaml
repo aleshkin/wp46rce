@@ -1,0 +1,68 @@
+/ # consul kv export settings/
+[
+        {
+                "key": "settings/aibolit/",
+                "flags": 0,
+                "value": ""
+        },
+        {
+                "key": "settings/aibolit/aibolitAuthParams/kireev",
+                "flags": 0,
+                "value": "eyAiS2V5IjogIldkWSM0e2J4RSVzJGs/TSMiLCAiVmVjdG9yIjogIlBYbU9XP2VkMkVFUUZkNmsiIH0="
+        },
+        {
+                "key": "settings/aibolit/aibolitAuthParams/production",
+                "flags": 0,
+                "value": "eyAiS2V5IjogInJ9YnNQdHw0TDRyaWV8TlRtY0oqSWtXU3RvZkt0Q1h4IiwgIlZlY3RvciI6ICJGYnNOJX5LYW8yRnJEKjZaIiB9"
+        },
+        {
+                "key": "settings/aibolit/aibolitAuthParams/test",
+                "flags": 0,
+                "value": "eyAiS2V5IjogIldkWSM0e2J4RSVzJGs/TSMiLCAiVmVjdG9yIjogIlBYbU9XP2VkMkVFUUZkNmsiIH0="
+        },
+        {
+                "key": "settings/aibolit/aibolitClickHouseParams/kireev",
+                "flags": 0,
+                "value": "eyAiQ29ubmVjdGlvblN0cmluZyI6ICJodHRwOi8vdGVzdC1haWJvbGl0OmFpYm9saXRAMTAuMS4xLjIzOjgxMjMvdGVzdC1haWJvbGl0IiwgIkluc2VydFNpemUiOiAxLCAiSW5zZXJ0U2l6ZUJ5VGFibGUiOiB7CiJTWVNURU1fU1RBVEUiOiAxMDAsCiJVTklUX1NUQVRFIjogMSwKIlVOSVRfRVZFTlQiOiAxLAoiQ0FSRF9FVkVOVCI6IDEsCiJVU0VSX0FDVElPTiI6IDEsCiJHUFNfVFJBQ0siOiAxLAoiRVhUUkFfUEFSQU1fRVZFTlQiOiAxLAoiVEVSTUlOQUxfUkVRVUVTVCI6IDEwMAp9LAogIkJ1ZmZlclRpbWUiOiAzMCwKICJMb2dRdWVyaWVzIjogZmFsc2UKfQ=="
+        },
+        {
+                "key": "settings/aibolit/aibolitClickHouseParams/test",
+                "flags": 0,
+                "value": "eyAiQ29ubmVjdGlvblN0cmluZyI6ICJodHRwOi8vdGVzdC1haWJvbGl0OmFpYm9saXRAMTAuMS4xLjIzOjgxMjMvdGVzdC1haWJvbGl0IiwgIkluc2VydFNpemUiOiAxLCAiSW5zZXJ0U2l6ZUJ5VGFibGUiOiB7CiJTWVNURU1fU1RBVEUiOiA1MDAsCiJVTklUX1NUQVRFIjogMTAwMCwKIlVOSVRfRVZFTlQiOiAxMDAwLAoiQ0FSRF9FVkVOVCI6IDEwMDAsCiJVU0VSX0FDVElPTiI6IDUwMCwKIkdQU19UUkFDSyI6IDEwMDAsCiJFWFRSQV9QQVJBTV9FVkVOVCI6IDEwMDAsCiJURVJNSU5BTF9SRVFVRVNUIjogMjAwMAp9LCAiQnVmZmVyVGltZSI6IDYwIH0="
+        },
+        {
+                "key": "settings/aibolit/aibolitDbConnectionString/test",
+                "flags": 0,
+                "value": "Im1vbmdvZGI6Ly8xMC4yLjAuNDc6MjcwMTci"
+        },
+        {
+                "key": "settings/aibolit/aibolitLimonConnString/kireev",
+                "flags": 0,
+                "value": "Im9yYWNsZTovL2xpbW9uOmxpbW9uQDEwLjEuMS4yMTM6MTcwNS9saW1vbiI="
+        },
+        {
+                "key": "settings/aibolit/aibolitLimonConnString/test",
+                "flags": 0,
+                "value": "Im9yYWNsZTovL2xpbW9uOmxpbW9uQDEwLjEuMS4yMTM6MTcwNS9saW1vbiI="
+        },
+        {
+                "key": "settings/aibolit/aibolitTgBotParams/kireev",
+                "flags": 0,
+                "value": "ewogICJQYXNzd29yZCI6ICJhaWJvbGl0MjAyMCIsCiAgIlRva2VuIjogIjEwOTU2MTk3NzA6QUFHaEV6V0RXZEk5WHhMWUZ1clNmdjJuTVUzTGNtTkppSHciLAogICJDb25uZWN0aW9uU3RyaW5nIjoiS0lSRUVWLzEyMzQ1QChERVNDUklQVElPTj0oQUREUkVTU19MSVNUPShBRERSRVNTPShQUk9UT0NPTD10Y3ApKEhPU1Q9MTAuMy4wLjcyKShQT1JUPTE1MjEpKSkoQ09OTkVDVF9EQVRBPShTRVJWSUNFX05BTUU9b3JjbC51ZWNhcmQucnUpKSkiLAogICJEYXRlSW50ZXJ2YWxJbkRheXMiOiAzNjUsCiAgIkFkZHJlc3MiOiAiIiwKICAiRGVidWdQb3J0IjogIjkxMDAiLAogICJQcm94eSI6IHsKICAgICJBZGRyZXNzIjogIjUxLjE0NC4zOS45OjcwODAiLAogICAgIlVzZXIiOiAiYW5vbiIsCiAgICAiUGFzc3dvcmQiOiAicTF3MmUzcjQiCiAgfQp9"
+        },
+        {
+                "key": "settings/aibolit/aibolitTgBotParams/test",
+                "flags": 0,
+                "value": "ewogICJQYXNzd29yZCI6ICJhaWJvbGl0MjAyMCIsCiAgIlRva2VuIjogIjEwMTAxODI0MDU6QUFGVV9ubUl5cXFOOHh3MkxjbWVaWXNYREZPU2lNQnVSQ2siLAogICJDb25uZWN0aW9uU3RyaW5nIjoieHhyZWFkL3h4cmVhZEAoREVTQ1JJUFRJT049KEFERFJFU1NfTElTVD0oQUREUkVTUz0oUFJPVE9DT0w9dGNwKShIT1NUPTEwLjEuMC4xMjcpKFBPUlQ9MTUyMSkpKShDT05ORUNUX0RBVEE9KFNFUlZJQ0VfTkFNRT1vcmNsLnVlY2FyZC5ydSkpKSIsCiAgIkRhdGVJbnRlcnZhbEluRGF5cyI6IDcsCiAgIkFkZHJlc3MiOiAiIiwKICAiRGVidWdQb3J0IjogIjkxMDAiLAogICJQcm94eSI6IHsKICAgICJBZGRyZXNzIjogIjUxLjE0NC4zOS45OjcwODAiLAogICAgIlVzZXIiOiAiYW5vbiIsCiAgICAiUGFzc3dvcmQiOiAicTF3MmUzcjQiCiAgfQp9"
+        },
+        {
+                "key": "settings/aibolit/gtfsConnectionString/kireev",
+                "flags": 0,
+                "value": "Inh4cmVhZC94eHJlYWRAKERFU0NSSVBUSU9OPShBRERSRVNTX0xJU1Q9KEFERFJFU1M9KFBST1RPQ09MPXRjcCkoSE9TVD0xMC4xLjAuNjQpKFBPUlQ9MTUyMSkpKShDT05ORUNUX0RBVEE9KFNFUlZJQ0VfTkFNRT10cmNhcmQpKSki"
+        },
+        {
+                "key": "settings/aibolit/gtfsConnectionString/test",
+                "flags": 0,
+                "value": "Inh4cmVhZC94eHJlYWRAKERFU0NSSVBUSU9OPShBRERSRVNTX0xJU1Q9KEFERFJFU1M9KFBST1RPQ09MPXRjcCkoSE9TVD0xMC4xLjAuNjQpKFBPUlQ9MTUyMSkpKShDT05ORUNUX0RBVEE9KFNFUlZJQ0VfTkFNRT10cmNhcmQpKSki"
+        }
+]
